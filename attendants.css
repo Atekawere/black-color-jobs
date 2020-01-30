@@ -13,13 +13,14 @@ h1{
     font-weight: 700;
 }
 #securityguard{
-    background-image:url(./lin.jpg ) ;
+    background-image:url("https://bit.ly/2U9YIq4");
+    height: 400px;
     height: 400px;
     background-size: cover;
     background-repeat: no-repeat;
 }
 #shambaboy{
-    background-image: url(./shamba.jpeg) ;
+    background-image: url("https://bit.ly/2tRCezn") ;
     height: 400px;
     width:600px;
     background-size: cover;
@@ -45,7 +46,7 @@ section{
     flex-direction: row;
 }
 .househelps{
-    background-image: url(./home.jpeg) ;
+    background-image: url("https://bit.ly/2UfQ21r") ;
     height: 400px;
     width: 600px;
     background-size: cover;
@@ -53,7 +54,7 @@ section{
     font-size: larger;
 }
 #cleaners{
-    background-image: url(./clean.jpeg) ;
+    background-image: url("https://bit.ly/2RECWJ4") ;
     height: 400px;
     width: 600px;
     background-size: cover;
@@ -152,7 +153,7 @@ input[type=submit]{
     height:250px;
     margin:-10px;
     padding:0;
-    background-image:url("./house-office-painting-renovations-services-nairobi-kenya.jpg");
+    background-image:url("https://bit.ly/36EIHuD") ;
     background-repeat: no-repeat;
     background-size: cover;
     opacity: 0.8;
